@@ -1,0 +1,22 @@
+{
+  "name": "getrepository",
+  "version": "1.0.0",
+  "description": "Gets the repository for a module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gangleri/getrepository.git"
+  },
+  "author": "Alan Bradley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gangleri/getrepository/issues"
+  },
+  "homepage": "https://github.com/gangleri/getrepository#readme",
+  "dependencies": {
+    "npm": "2.14.2"
+  }
+}
